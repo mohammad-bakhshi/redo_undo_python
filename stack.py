@@ -1,4 +1,5 @@
 class Stack:
+    //test
     def __init__(self, max_size):
         self.max_size = max_size  # public attr
         self._num = 0  # private attr
